@@ -44,3 +44,8 @@ WEB SCRAPING: We can use RPA tool,Java,GoLang,Python etc.
  e.g. Let's consider a movie review: "Story was good but ending was not fine."
  Text -> Sentences -> words -> CSV -> Scores (0.1,0.2,0.3 ...) -> 3 opinions: Positive, Negative, Neutral
  
+ ----------------------------------------------------------------------------------------------------------------------------
+ # API Access
+ e.g. Twitter
+ Code -> Endpoint(First Auth.)known as Customer Keys  -> Key Auth. Access Ky -> Can access Twitter Storage
+ 
