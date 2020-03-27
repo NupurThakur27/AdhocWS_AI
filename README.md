@@ -44,6 +44,14 @@ WEB SCRAPING: We can use RPA tool,Java,GoLang,Python etc.
  e.g. Let's consider a movie review: "Story was good but ending was not fine."
  Text -> Sentences -> words -> CSV -> Scores (0.1,0.2,0.3 ...) -> 3 opinions: Positive, Negative, Neutral
  
+ Two methods for Sentiment Analysis:
+ 1. Raw Method
+ 2. Automatic Method (using Textblob)
+ 
+ Polarity of Sentiments lie between -1 to 1 in case of TextBlob.
+ Values less than 0 are negative.
+ Values greater than 0 are positive.
+ 
  ----------------------------------------------------------------------------------------------------------------------------
  # API Access
  e.g. Twitter
