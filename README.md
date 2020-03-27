@@ -16,7 +16,7 @@ WEB SCRAPING: We can use RPA tool,Java,GoLang,Python etc.
 --> BeautifulSoup
 1. Visit URL (from urllib import request; <var>=request.urlopen()) 2.Download Data(<var>.read()) 3. Then Scrap the required info.
   
-  HTML Parser is a collection of html tags that can scrap data from particular tag like <h1>, <head> etc.
+  HTML Parser is a collection of html tags that can scrap data from particular tag like <h1>,<head> etc.
   Cleaning is an important part of Web Scraping. Cleaning is done using Regular Expression(RE) or NLP.
   Data Summarization require a very clean data.
   
