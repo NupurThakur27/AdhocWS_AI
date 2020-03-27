@@ -37,3 +37,10 @@ WEB SCRAPING: We can use RPA tool,Java,GoLang,Python etc.
  # NLP
  e.g. Large amount of text data stored in any format(csv, txt, sql etc.) but it's all monotonous wihtout any subdivision then it's a tidious task to understand. Just like in Books we have chapters for better understanding.
  So to solve such problem we can divide big data to sentences(**Sentence Tokenization**) and may be for more simplifications to words(**Word Tokenization**) and then analyse them. This whole work is included in **NLP**. 
+ 
+ **Sentiment Analysis**
+ Opinion 
+ Saying
+ e.g. Let's consider a movie review: "Story was good but ending was not fine."
+ Text -> Sentences -> words -> CSV -> Scores (0.1,0.2,0.3 ...) -> 3 opinions: Positive, Negative, Neutral
+ 
