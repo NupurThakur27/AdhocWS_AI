@@ -33,3 +33,6 @@ WEB SCRAPING: We can use RPA tool,Java,GoLang,Python etc.
  
  TEXT PROCESSING: NLP Processing Tool in PYthon: NLTK, Spacy,Textblob etc.
  NLP(Processing) -> NLG(Generation) -> NLU(Understanding)
+ ------------------------------------------------------------------------------------------------------------------------
+ # NLP
+ e.g. Large amount of text data stored in any format(csv, txt, sql etc.) but it's all monotonous wihtout any subdivision then it's a tidious task to understand. Just like in Books we have chapters for better understanding.
