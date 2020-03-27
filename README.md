@@ -22,3 +22,14 @@ WEB SCRAPING: We can use RPA tool,Java,GoLang,Python etc.
  # Data Cleaning using RE
  re.sub(r'\[0-9]*\]','',data)
  https://www.debuggex.com/cheatsheet/regex/python
+ # Deep Learning using Python
+ Machine Learningg --> Predict and Classification
+ Meaning of Deep Learning is to do deep analysis about data, data can be text,image,SQL dta etc.
+ 
+ 
+ ------------------------------------------------------------------------------------------------
+ 
+ Library/Modules: Tensorflow (It is designed in C++), Pytorch, Keras
+ 
+ TEXT PROCESSING: NLP Processing Tool in PYthon: NLTK, Spacy,Textblob etc.
+ NLP(Processing) -> NLG(Generation) -> NLU(Understanding)
