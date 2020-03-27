@@ -19,4 +19,6 @@ WEB SCRAPING: We can use RPA tool,Java,GoLang,Python etc.
   HTML Parser is a collection of html tags that can scrap data from particular tag like h1, head etc.
   Cleaning is an important part of Web Scraping. Cleaning is done using Regular Expression(RE) or NLP.
   Data Summarization require a very clean data.
-  
+ # Data Cleaning using RE
+ re.sub(r'\[0-9]*\]','',data)
+ https://www.debuggex.com/cheatsheet/regex/python
